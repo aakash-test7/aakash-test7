@@ -111,10 +111,6 @@
   <a href="https://www.linkedin.com/in/aakash-kharb/" target="blank">
     <img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="aakash-kharb" height="40" width="45" style="vertical-align: middle;" />
   </a>
-  &nbsp;
-  <a href="https://twitter.com/aakash_kharb" target="blank">
-    <img src="twitter.gif" alt="Twitter" height="60" width="60" style="vertical-align: middle; display: inline-block;" />
-  </a>
   &nbsp;&nbsp;
   <a href="mailto:akharbrtk2@gmail.com" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" alt="akharbrtk2@gmail.com" width="40" style="vertical-align: middle;" />
