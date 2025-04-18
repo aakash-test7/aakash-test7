@@ -95,10 +95,10 @@
 ## 🔥GitHub Streak:
 
 <a href="#">
-  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=aakash-test7&show_icons=true&theme=react&border_color=61ed44&bg_color=0d1117" />
+  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-test7&show_icons=true&theme=react&border_color=61ed44&bg_color=0d1117" />
 </a>
 <a href="#">
-  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakash-test7&layout=compact&theme=react&border_color=61ed44&bg_color=0d1117&title_color=6ec6de" />
+  <img height=195 align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=aakash-test7&layout=compact&theme=react&border_color=61ed44&bg_color=0d1117&title_color=6ec6de" />
 </a>
 
 <br>
