@@ -94,12 +94,11 @@
 
 ## 🔥GitHub Streak:
 
-<a href="#">
-  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-test7&show_icons=true&theme=react&border_color=61ed44&bg_color=0d1117" />
-</a>
-<a href="#">
-  <img height=195 align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=aakash-test7&layout=compact&theme=react&border_color=61ed44&bg_color=0d1117&title_color=6ec6de" />
-</a>
+<div align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 20px; height: 100vh;">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-test7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Aakash Kharb's Most Used Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+  
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakash-test7&theme=tokyonight&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69" alt="Aakash Kharb's GitHub Streak" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+</div> 
 
 <br>
 
