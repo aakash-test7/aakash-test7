@@ -12,7 +12,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1;">
-        <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+        <img align="right" alt="Coding" width="350" src="https://tenor.com/view/rath-gif-27600148">
     </div>
     <div style="flex: 1; padding-right: 20px;">
         <ul>
