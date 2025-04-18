@@ -11,6 +11,9 @@
 </div>
 
 <div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1;">
+        <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+    </div>
     <div style="flex: 1; padding-right: 20px;">
         <ul>
             <li>🔭 I’m currently studying <i>Artificial Intelligence</i> and <i>Machine Learning</i></li><br>
@@ -21,9 +24,7 @@
             <li>💪🏼 Fav Quote: "16 x 2 = 8".</li>
         </ul>
     </div>
-    <div style="flex: 1;">
-        <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-    </div>
+    
 </div>
 
 <br>
