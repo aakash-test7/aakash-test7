@@ -94,10 +94,10 @@
 
 ## 🔥GitHub Streak:
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img width="250" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-test7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Aakash Kharb's Most Used Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+<div align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 20px; height: 100vh;">
+  <img width="300" height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-test7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Aakash Kharb's Most Used Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
   
-  <img width="250" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=aakash-test7&theme=tokyonight&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69" alt="Aakash Kharb's GitHub Streak" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+  <img width="300" height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=aakash-test7&theme=tokyonight&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69" alt="Aakash Kharb's GitHub Streak" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
 </div>
 
 <br>
