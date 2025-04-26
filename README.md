@@ -103,7 +103,7 @@
 <br>
 
 <h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> Connect with me</h2>
- <em><b>I enjoy connecting with new people,</b> so feel free to say <b>hi – I’d be thrilled to meet you!</b></em>😂😃
+ <em><b>I enjoy connecting with new people,</b> so feel free to say <b>hi – I’d be thrilled to meet you!</b></em>😂😃<br>
  
 <br>
 
